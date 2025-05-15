@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        /*
+        /*           for: Bilol
         Admin
         1. Add book
         2. Edit book
@@ -8,7 +8,7 @@ public class Main {
         4. Users
         0. Exit
 
-        User
+        User       for: Omonjon
         1. Show books
         2. Buy book
         3. My books
